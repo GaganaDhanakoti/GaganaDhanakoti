@@ -1,6 +1,6 @@
 
 
-<div style="text align: center;">
+<div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gagana+Dhanakoti........;Nice+to+meet+you!&center=true&color=8D139C&size=25">
   </a>
