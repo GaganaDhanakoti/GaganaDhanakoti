@@ -20,7 +20,6 @@ I am an aspiring AI Software Engineer. Passionate about bringing new ideas into 
 
 **Talking about Personal Stuff:**
 - 👩‍🎓 I'm currently a **MS CS student at Georgia Tech**
-- 👩‍💻 Previously: **IT Analyst**
 - 🔭 I’m currently working on an AI project from Kaggle. 
 - 🌱 I’m currently learning:
      - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/GaganaD/)
