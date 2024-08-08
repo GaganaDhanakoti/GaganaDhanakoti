@@ -16,7 +16,7 @@
 <img src="C:\Users\lolit\OneDrive\Desktop\GitHub\Social/facebook.svg" alt="gaganadhanakoti" height="30" width="40" style= "display: inline-block; margin: 5px;"/></a>
 &nbsp;
 
-I am an aspiring AI Software Engineer. Passionate about bringing new ideas into the AI world. Interested to work on AI related projects. 
+I am an aspiring AI Software Engineer. Passionate about bringing new ideas into the AI world. 
 
 # Talking about Personal Stuff:
 - 👩‍🎓 I'm currently a **MS CS student at Georgia Tech**
@@ -26,7 +26,7 @@ I am an aspiring AI Software Engineer. Passionate about bringing new ideas into 
      - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/GaganaD/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 
-
+Still loading.... 
 
 
 <!--
