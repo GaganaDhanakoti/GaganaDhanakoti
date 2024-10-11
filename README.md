@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<a href="https://www.linkedin.com/gaganadhanakoti/" target="_blank">
+<a href="https://www.linkedin.com/in/gaganadhanakoti/" target="_blank">
 <img src="https://github.com/GaganaDhanakoti/GaganaDhanakoti/blob/main/Images/Icon/Social/linked-in.svg" alt="Gagana Dhanakoti" height="20" width="30" style= "display: inline-block; margin: 5px;" /></a>
 &nbsp;
 <a href="https://www.instagram.com/gaganadhanakoti/" target="_blank">
