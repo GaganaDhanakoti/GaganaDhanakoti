@@ -55,7 +55,7 @@ Because of confidentiality:
 
 ---
 
-## 🔹💻 Tech Stack
+## 💻 Tech Stack
 `Python` • `Java` • `C++` • `TensorFlow` • `PyTorch` • `AWS` • `Docker` • `Kubernetes` • `FastAPI` • `SQL/NoSQL` • `LLMs`
 
 ---
