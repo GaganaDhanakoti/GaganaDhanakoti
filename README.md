@@ -29,13 +29,8 @@ I’m a Machine Learning Engineer and Software Developer currently pursuing my M
 
 ## 🔹 Public Projects
 *(Selected examples showcasing my skills — using public data and open-source tech stacks)*  
-- 🧠 **[Yet to upload]**  
+- 🧠 **[Yet to upload]**  - Placeholder for upcoming project demos.
 
-<!--
-⚡ **[Project Name]** – e.g., Scalable ML API (FastAPI + Docker + Kubernetes).  
-🔍 **[Project Name]** – e.g., Bias Mitigation Toolkit (Public datasets).  
-
--->
 
 ## 🔹 Confidential Projects
 Some of my most impactful work was done during **internships** and **graduate research** under **strict NDAs**.  
@@ -47,6 +42,14 @@ Because of confidentiality:
 
 ## 🔹 Tech Stack
 `Python` • `Java` • `C++` • `TensorFlow` • `PyTorch` • `AWS` • `Docker` • `Kubernetes` • `FastAPI` • `SQL/NoSQL` • `LLMs`
+
+---
+
+
+## 🔹 GitHub Stats
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaganaDhanakoti&show_icons=true&theme=tokyonight) 
+-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganaDhanakoti&layout=compact&theme=tokyonight)
 
 ---
 
