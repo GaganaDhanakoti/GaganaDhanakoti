@@ -17,7 +17,21 @@
 &nbsp;
 
 I’m a Machine Learning Engineer and Software Developer currently pursuing my M.S. in Computer Science at Georgia Tech (graduating Dec 2026). My focus areas are **AI/ML**, **NLP**, and **cloud-native applications**.
+---
 
+<div align="center">
+  <!-- Skill Badges -->
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-17-red?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-17-lightgrey?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/AWS-cloud-orange?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
+
+---
 
 ## 🔹 About Me
 - 🌱 Passionate about applying AI/ML to solve real-world problems.
@@ -26,6 +40,7 @@ I’m a Machine Learning Engineer and Software Developer currently pursuing my M
 - 📚 Active learner of distributed systems, deep learning, and ethical AI.
 
 ---
+
 
 ## 🔹 Public Projects
 *(Selected examples showcasing my skills — using public data and open-source tech stacks)*  
